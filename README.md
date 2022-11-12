@@ -1,5 +1,7 @@
 # React app to calculate your body mass index
 
+![Body-mass-index-calculator](Painoindeksilaskuri.jpg)
+
 This project is using bootstrap.
 Install it from terminal using "npm i bootstrap"
 
