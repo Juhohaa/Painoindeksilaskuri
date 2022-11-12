@@ -2,9 +2,6 @@
 
 ![Body-mass-index-calculator](Painoindeksilaskuri.jpg)
 
-This project is using bootstrap.
-Install it from terminal using "npm i bootstrap"
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
